@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+    <line>
+      <![CDATA[INFO: LogHelper::instance(): Singleton created.]]>
+    </line>
+    <line>
+      <![CDATA[INFO: DepositHelper::instance(): Singleton created.]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-primary"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-class='btnClass2']"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Type in "By.cssSelector: input[ng-model='amount']" as1500]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Deposit Successful found for By.cssSelector: span[ng-show='message']]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-show='logout']"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-primary"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-class='btnClass2']"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Type in "By.cssSelector: input[ng-model='amount']" as1500]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Deposit Successful found for By.cssSelector: span[ng-show='message']]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-show='logout']"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-class='btnClass2']"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Type in "By.cssSelector: input[ng-model='amount']" as1500]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Deposit Successful found for By.cssSelector: span[ng-show='message']]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-show='logout']"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-class='btnClass2']"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Type in "By.cssSelector: input[ng-model='amount']" as1500]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Deposit Successful found for By.cssSelector: span[ng-show='message']]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-show='logout']"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-class='btnClass2']"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Type in "By.cssSelector: input[ng-model='amount']" as1500]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Deposit Successful found for By.cssSelector: span[ng-show='message']]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-show='logout']"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-class='btnClass2']"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Type in "By.cssSelector: input[ng-model='amount']" as1500]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Deposit Successful found for By.cssSelector: span[ng-show='message']]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-show='logout']"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-primary"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-class='btnClass2']"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Type in "By.cssSelector: input[ng-model='amount']" as31459]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Deposit Successful found for By.cssSelector: span[ng-show='message']]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-class='btnClass1']"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Type in "By.cssSelector: input#start" as2021-07-24]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-click='back()']"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-class='btnClass3']"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Type in "By.cssSelector: input[ng-model='amount']" as31459]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Transaction successful found for By.cssSelector: span[ng-show='message']]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-class='btnClass1']"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Type in "By.cssSelector: input#start" as2021-07-24]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-primary"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-class='btnClass2']"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Type in "By.cssSelector: input[ng-model='amount']" as2000]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Deposit Successful found for By.cssSelector: span[ng-show='message']]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-class='btnClass3']"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Type in "By.cssSelector: input[ng-model='amount']" as1500]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: UIAPI.Testing.DepositHelper: Transaction successful found for By.cssSelector: span[ng-show='message']]]>
+    </line>
+  </reporter-output>
+  <suite name="Customer Yesy" duration-ms="96578" started-at="2021-07-24T23:42:06Z" finished-at="2021-07-24T23:43:43Z">
+    <groups>
+    </groups>
+    <test name="Tests on Chrome" duration-ms="96578" started-at="2021-07-24T23:42:06Z" finished-at="2021-07-24T23:43:43Z">
+      <class name="UIAPI.Testing.CustomerTest">
+        <test-method status="PASS" signature="testDepositAmountForFirstCustomer()[pri:1, instance:UIAPI.Testing.CustomerTest@39c0f4a]" name="testDepositAmountForFirstCustomer" duration-ms="14206" started-at="2021-07-24T23:42:09Z" finished-at="2021-07-24T23:42:23Z">
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: LogHelper::instance(): Singleton created.]]>
+            </line>
+            <line>
+              <![CDATA[INFO: DepositHelper::instance(): Singleton created.]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-primary"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-class='btnClass2']"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Type in "By.cssSelector: input[ng-model='amount']" as1500]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Deposit Successful found for By.cssSelector: span[ng-show='message']]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-show='logout']"]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testDepositAmountForFirstCustomer -->
+        <test-method status="PASS" signature="testDepositAmountForEachCustomer()[pri:1, instance:UIAPI.Testing.CustomerTest@39c0f4a]" name="testDepositAmountForEachCustomer" duration-ms="30958" started-at="2021-07-24T23:42:23Z" finished-at="2021-07-24T23:42:54Z">
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-primary"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-class='btnClass2']"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Type in "By.cssSelector: input[ng-model='amount']" as1500]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Deposit Successful found for By.cssSelector: span[ng-show='message']]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-show='logout']"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-class='btnClass2']"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Type in "By.cssSelector: input[ng-model='amount']" as1500]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Deposit Successful found for By.cssSelector: span[ng-show='message']]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-show='logout']"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-class='btnClass2']"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Type in "By.cssSelector: input[ng-model='amount']" as1500]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Deposit Successful found for By.cssSelector: span[ng-show='message']]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-show='logout']"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-class='btnClass2']"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Type in "By.cssSelector: input[ng-model='amount']" as1500]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Deposit Successful found for By.cssSelector: span[ng-show='message']]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-show='logout']"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-class='btnClass2']"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Type in "By.cssSelector: input[ng-model='amount']" as1500]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Deposit Successful found for By.cssSelector: span[ng-show='message']]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-show='logout']"]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testDepositAmountForEachCustomer -->
+        <test-method status="PASS" signature="testDepositAmountAndWithdrawlForFirstCustomer()[pri:1, instance:UIAPI.Testing.CustomerTest@39c0f4a]" name="testDepositAmountAndWithdrawlForFirstCustomer" duration-ms="33809" started-at="2021-07-24T23:42:54Z" finished-at="2021-07-24T23:43:28Z">
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-primary"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-class='btnClass2']"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Type in "By.cssSelector: input[ng-model='amount']" as31459]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Deposit Successful found for By.cssSelector: span[ng-show='message']]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-class='btnClass1']"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Type in "By.cssSelector: input#start" as2021-07-24]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-click='back()']"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-class='btnClass3']"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Type in "By.cssSelector: input[ng-model='amount']" as31459]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Transaction successful found for By.cssSelector: span[ng-show='message']]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-class='btnClass1']"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Type in "By.cssSelector: input#start" as2021-07-24]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testDepositAmountAndWithdrawlForFirstCustomer -->
+        <test-method status="PASS" signature="testDepositAmountAndWithdrawlForDynamicCustomer()[pri:1, instance:UIAPI.Testing.CustomerTest@39c0f4a]" name="testDepositAmountAndWithdrawlForDynamicCustomer" duration-ms="15286" started-at="2021-07-24T23:43:28Z" finished-at="2021-07-24T23:43:43Z">
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-primary"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-class='btnClass2']"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Type in "By.cssSelector: input[ng-model='amount']" as2000]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Deposit Successful found for By.cssSelector: span[ng-show='message']]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button[ng-class='btnClass3']"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Type in "By.cssSelector: input[ng-model='amount']" as1500]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Click on "By.cssSelector: button.btn-default"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: UIAPI.Testing.DepositHelper: Transaction successful found for By.cssSelector: span[ng-show='message']]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testDepositAmountAndWithdrawlForDynamicCustomer -->
+      </class> <!-- UIAPI.Testing.CustomerTest -->
+      <class name="UIAPI.Testing.UserAPITest">
+        <test-method status="PASS" signature="getAParticularUser()[pri:0, instance:UIAPI.Testing.UserAPITest@1794d431]" name="getAParticularUser" duration-ms="1700" started-at="2021-07-24T23:42:06Z" finished-at="2021-07-24T23:42:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAParticularUser -->
+        <test-method status="PASS" signature="getAllUsers()[pri:0, instance:UIAPI.Testing.UserAPITest@1794d431]" name="getAllUsers" duration-ms="184" started-at="2021-07-24T23:42:08Z" finished-at="2021-07-24T23:42:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllUsers -->
+        <test-method status="PASS" signature="getCreateNewUser()[pri:0, instance:UIAPI.Testing.UserAPITest@1794d431]" name="getCreateNewUser" duration-ms="360" started-at="2021-07-24T23:42:08Z" finished-at="2021-07-24T23:42:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCreateNewUser -->
+      </class> <!-- UIAPI.Testing.UserAPITest -->
+    </test> <!-- Tests on Chrome -->
+  </suite> <!-- Customer Yesy -->
+</testng-results>

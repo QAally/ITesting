@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Customer Yesy">
+	<test name="Tests on Chrome">
+		<classes>
+			<class name="UIAPI.Testing.CustomerTest" />
+			<class name="UIAPI.Testing.UserAPITest" />
+		</classes>
+	</test>
+</suite>

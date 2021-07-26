@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Customer Yesy]">
+  <test thread-count="5" name="Tests on Chrome(failed)">
+    <classes>
+      <class name="UIAPI.Testing.CustomerTest">
+        <methods>
+          <include name="testDepositAmountAndWithdrawlForFirstCustomer"/>
+        </methods>
+      </class> <!-- UIAPI.Testing.CustomerTest -->
+    </classes>
+  </test> <!-- Tests on Chrome(failed) -->
+</suite> <!-- Failed suite [Customer Yesy] -->
